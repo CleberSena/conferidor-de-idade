@@ -1,0 +1,32 @@
+body{
+    background: rgb(139, 169, 252);
+    font: 20pt arial;
+}
+h1{
+    text-align: center;
+    font-size: 02em;
+    color: azure;
+    text-shadow: 3px 2px 2px #000;
+}
+#container{
+    width: 500px;
+    height: auto;
+    border: 2px solid #000;
+    margin: 0 auto;
+    padding: 0 20px;
+    border-radius: 20px;
+    background-color: rgb(62, 187, 187);
+    box-shadow: 3px 3px 4px #0000009d;
+}
+ input{
+    font-size: 1.2rem;
+    background: rgb(255, 238, 0);
+ }
+
+ #res{
+    text-align: center;
+ }
+ footer{
+    text-align: center;
+    color: #fff;
+ }
